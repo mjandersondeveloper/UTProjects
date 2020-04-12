@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Marcus-Portfolio"
+    }
+  },
+  "defaultProject": "Marcus-Portfolio",
+  "cli": {
+    "analytics": false
+  }
 }
