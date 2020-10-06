@@ -16,11 +16,11 @@ import { ContactComponent } from './contact/contact.component';
   declarations: [
     ProfileComponent,
     HeaderComponent,
-    AboutComponent,
     IntroComponent,
+    AboutComponent,
+    SkillsComponent,
     ExperienceComponent,
     GithubComponent,
-    SkillsComponent,
     EducationComponent,
     ContactComponent
   ],
